@@ -31,7 +31,7 @@ h1.heading {
 /*
   Base styles for links
 */
-a {
+/* a {
   @apply border-b-2;
   @apply border-teal-400;
 }
@@ -93,7 +93,7 @@ code {
 }
 .mb--4 {
   margin-bottom: -1rem;
-}
+} */
 
 /* purgecss start ignore */
 @tailwind  components;
